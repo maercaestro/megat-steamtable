@@ -1,6 +1,8 @@
 # MEGAT Steam Tables
 
-Copyright by Abu Huzaifah Bidin, maercaestro.github.io
+![MEGAT Logo](MEGATLogo.png)
+
+Copyright by Abu Huzaifah Bidin, (maercaestro.github.io)
 
 This application is designed to extract steam tables data using the iapws library.
 More features will be added based on requests.
@@ -20,4 +22,4 @@ This view enables you to create your own steam table given a range of pressure.
 - Click the "Plot Pressure Range" button to generate a plot of temperature against pressure.
 - Click the "Create DataFrame" button to generate a dataframe and download it as a CSV file.
 
-![MEGAT Logo](MEGATLogo.png){ width=25% }
+
