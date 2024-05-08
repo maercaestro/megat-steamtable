@@ -22,4 +22,7 @@ This view enables you to create your own steam table given a range of pressure.
 - Click the "Plot Pressure Range" button to generate a plot of temperature against pressure.
 - Click the "Create DataFrame" button to generate a dataframe and download it as a CSV file.
 
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
